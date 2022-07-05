@@ -37,7 +37,7 @@
        "value": "latest"
      }
   },
-  "website": "https://github.com/smdckzh/mkyu.git",
-  "repository": "https://github.com/smdckzh/mkyu.git",
+  "website": "https://github.com/smdckzh/mkyu",
+  "repository": "https://github.com/smdckzh/mkyu",
   "stack": "container"
  }
